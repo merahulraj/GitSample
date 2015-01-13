@@ -4,3 +4,4 @@ body {
     background: #eee;
 }
 h1,h3,p{text-align: center;}
+.boldy{font-weight: bold; text-transform: uppercase;}
